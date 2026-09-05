@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Harsh Yadav
 
-**DevOps Engineer** | CI/CD • Containers • Cloud Automation
+**DevOps Engineer** | CI/CD • Containers • Cloud Automation • troubleshooting linux-server issues.
 
-I build, break, and automate infrastructure — learning by shipping real systems.
+I'm passionate about building reliable infrastructure and continuously improving how systems are delivered.  
+**Currently open to work** and actively looking for opportunities to grow further in DevOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-yadav-devops)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashwithharsh)
@@ -26,16 +27,20 @@ I build, break, and automate infrastructure — learning by shipping real system
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hashwithharsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashwithharsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=hashwithharsh&style=for-the-badge&color=blue)
+- **[End-to-End CI/CD with GitOps](https://github.com/hashwithharsh/jenkins-cicd-ecr-gitops)** → Jenkins + GitHub Actions → ArgoCD
+- **[Kubernetes Microservices Platform](https://github.com/hashwithharsh/kubernetes-microservices-platform)** → Deployments, HPA, RBAC, StatefulSets
+- **[AWS Terraform + Ansible](https://github.com/hashwithharsh/aws-terraform-ansible-infrastructure)** → Modular IaC + 15+ Ansible roles
+- **[Docker Containerization Lab](https://github.com/hashwithharsh/docker-containerization-lab)** → Multi-service app with multi-stage builds
+- **[AWS Native CI/CD Pipeline](https://github.com/hashwithharsh/aws-github-codepipeline-codebuild-codedeploy-cicd)** → CodePipeline → CodeBuild → CodeDeploy
+- **[Linux Server Automation](https://github.com/hashwithharsh/linux-server-automation-hardening-rhel)** → 40+ Bash scripts for hardening & automation
 
 ---
 
-### 🚀 Currently Exploring
-Advanced Kubernetes • GitOps at scale • Cloud-native security
+### 🌱 Looking for opportunities in:
+CI/CD • Kubernetes • GitOps • Cloud Infrastructure • Automation
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hashwithharsh&style=for-the-badge&color=blue)
 
 ⭐️ [hashwithharsh](https://github.com/hashwithharsh)
