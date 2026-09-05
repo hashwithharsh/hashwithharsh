@@ -1,79 +1,41 @@
-# Hi, I'm Harsh Yadav 👋
+# 👋 Hi, I'm Harsh Yadav
 
-**DevOps Engineer** focused on **CI/CD**, **Containers**, and **Cloud Automation**.
+**DevOps Engineer** | CI/CD • Containers • Cloud Automation
 
-I build, break, and debug real-world systems — continuously learning by shipping infrastructure that works.
+I build, break, and automate infrastructure — learning by shipping real systems.
 
----
-
-### 🚀 About Me
-
-- 🔭 Currently working as a **DevOps Junior Engineer** at Curoinfotech
-- 🌱 Deeply interested in **GitOps**, **Kubernetes**, and **Infrastructure as Code**
-- 💡 Love turning complex infrastructure problems into clean, automated solutions
-- 📫 Reach me at: [harshyadav.devops@gmail.com](mailto:harshyadav.devops@gmail.com)
-- ⚡ Fun fact: I document almost everything I break (and fix)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-yadav-devops)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashwithharsh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshyadav.devops@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devops_harsh)
 
 ---
 
 ### 🛠️ Tech Stack
 
-**CI/CD & GitOps**  
-`Jenkins` `GitHub Actions` `ArgoCD` `AWS CodePipeline` `AWS CodeBuild` `AWS CodeDeploy`
-
-**Containers & Orchestration**  
-`Docker` `Kubernetes` `Helm` `EKS` `Docker Compose`
-
-**Infrastructure as Code**  
-`Terraform` `Ansible`
-
-**Cloud**  
-`AWS` (EC2, S3, IAM, VPC, CloudWatch, ECR)
-
-**Linux & Scripting**  
-`RHEL` `Ubuntu` `Bash` `Shell Scripting`
-
-**Other**  
-`Git` `GitHub` `Linux System Administration` `Networking`
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**End-to-End CI/CD with GitOps**](https://github.com/hashwithharsh/jenkins-cicd-ecr-gitops) | Full CI pipeline (Jenkins + GitHub Actions) → SonarQube + Trivy → ECR → ArgoCD GitOps delivery | Jenkins, GitHub Actions, ArgoCD, ECR |
-| [**Kubernetes Microservices Platform**](https://github.com/hashwithharsh/kubernetes-microservices-platform) | Voting app deployed with Deployments, StatefulSets, Ingress, HPA, RBAC & real troubleshooting scenarios | Kubernetes, Helm, Docker |
-| [**AWS Terraform + Ansible Infrastructure**](https://github.com/hashwithharsh/aws-terraform-ansible-infrastructure) | Modular Terraform (VPC, EC2, IAM, S3) + 15+ reusable Ansible roles | Terraform, Ansible, AWS |
-| [**Docker Containerization Lab**](https://github.com/hashwithharsh/docker-containerization-lab) | Multi-service voting app with multi-stage builds, networks, volumes & healthchecks | Docker, Docker Compose |
-| [**AWS Native CI/CD Pipeline**](https://github.com/hashwithharsh/aws-github-codepipeline-codebuild-codedeploy-cicd) | GitHub → CodePipeline → CodeBuild → ECR → CodeDeploy → EC2 | AWS CodePipeline, CodeBuild, CodeDeploy |
-| [**Linux Server Automation & Hardening**](https://github.com/hashwithharsh/linux-server-automation-hardening-rhel) | 40+ Bash scripts for user management, backups, monitoring, SSH hardening & systemd | Bash, Linux, RHEL |
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashwithharsh&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=hashwithharsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashwithharsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashwithharsh&layout=compact&theme=dark&hide_border=true)
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-yadav-devops)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashwithharsh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshyadav.devops@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/devops_harsh)
+![Visitor Count](https://komarev.com/ghpvc/?username=hashwithharsh&style=for-the-badge&color=blue)
 
 ---
 
-### ✍️ Currently Learning
+### 🚀 Currently Exploring
+Advanced Kubernetes • GitOps at scale • Cloud-native security
 
-- Advanced Kubernetes patterns (Gateway API, Operators, GitOps at scale)
-- Cloud-native security & observability
-- Deeper AWS well-architected practices
-
----
-
-⭐️ From [hashwithharsh](https://github.com/hashwithharsh)
+⭐️ [hashwithharsh](https://github.com/hashwithharsh)
