@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Harsh Yadav
 
-**DevOps Engineer** | CI/CD • Containers • Cloud Automation • troubleshooting linux-server issues.
+**DevOps Engineer** | CI/CD • Containers • Cloud Automation
 
-I'm passionate about building reliable infrastructure and continuously improving how systems are delivered.  
-**Currently open to work** and actively looking for opportunities to grow further in DevOps.
+Passionate about building reliable infrastructure and automating everything.  
+**Currently open to work** and looking for opportunities to grow further in DevOps.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-yadav-devops)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hashwithharsh)
@@ -29,18 +29,27 @@ I'm passionate about building reliable infrastructure and continuously improving
 
 ### 🚀 Featured Projects
 
-- **[End-to-End CI/CD with GitOps](https://github.com/hashwithharsh/jenkins-cicd-ecr-gitops)** → Jenkins + GitHub Actions → ArgoCD
-- **[Kubernetes Microservices Platform](https://github.com/hashwithharsh/kubernetes-microservices-platform)** → Deployments, HPA, RBAC, StatefulSets
-- **[AWS Terraform + Ansible](https://github.com/hashwithharsh/aws-terraform-ansible-infrastructure)** → Modular IaC + 15+ Ansible roles
-- **[Docker Containerization Lab](https://github.com/hashwithharsh/docker-containerization-lab)** → Multi-service app with multi-stage builds
-- **[AWS Native CI/CD Pipeline](https://github.com/hashwithharsh/aws-github-codepipeline-codebuild-codedeploy-cicd)** → CodePipeline → CodeBuild → CodeDeploy
-- **[Linux Server Automation](https://github.com/hashwithharsh/linux-server-automation-hardening-rhel)** → 40+ Bash scripts for hardening & automation
+- **[End-to-End CI/CD with GitOps](https://github.com/hashwithharsh/jenkins-cicd-ecr-gitops)**  
+  Jenkins + GitHub Actions → SonarQube + Trivy → ECR → ArgoCD
+
+- **[Kubernetes Microservices Platform](https://github.com/hashwithharsh/kubernetes-microservices-platform)**  
+  Full production-style setup with Deployments, StatefulSets, HPA, RBAC & Ingress
+
+- **[AWS Terraform + Ansible Infrastructure](https://github.com/hashwithharsh/aws-terraform-ansible-infrastructure)**  
+  Modular Terraform + 15+ reusable Ansible roles for complete infrastructure
+
+- **[Docker Containerization Lab](https://github.com/hashwithharsh/docker-containerization-lab)**  
+  Multi-service voting app with multi-stage builds, networks & health checks
+
+- **[AWS Native CI/CD Pipeline](https://github.com/hashwithharsh/aws-github-codepipeline-codebuild-codedeploy-cicd)**  
+  GitHub → CodePipeline → CodeBuild → ECR → CodeDeploy
+
+- **[Linux Server Automation & Hardening](https://github.com/hashwithharsh/linux-server-automation-hardening-rhel)**  
+  40+ Bash scripts for automation, monitoring & security hardening
 
 ---
 
-### 🌱 Looking for opportunities in:
-CI/CD • Kubernetes • GitOps • Cloud Infrastructure • Automation
-
-![Visitor Count](https://komarev.com/ghpvc/?username=hashwithharsh&style=for-the-badge&color=blue)
+### 🌱 Open to opportunities in:
+**CI/CD** • **Kubernetes** • **GitOps** • **Cloud Infrastructure** • **Automation**
 
 ⭐️ [hashwithharsh](https://github.com/hashwithharsh)
