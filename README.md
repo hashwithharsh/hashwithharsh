@@ -39,7 +39,7 @@ I'm passionate about building reliable infrastructure and continuously improving
 ---
 
 ### 🌱 Looking for opportunities in:
-CI/CD • Kubernetes • GitOps • Cloud Infrastructure • Automation
+• Desktop Support • linux Admin • CI/CD • Kubernetes • GitOps • Cloud Infrastructure • Automation
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=hashwithharsh&style=for-the-badge&color=blue)
 
