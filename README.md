@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harsh Yadav
 
-**desktop Engineer** | intrested in learning linux and cloud technologies - CI/CD • Containers • Cloud Automation
+**Desktop Engineer** | intrested in learning linux and cloud technologies - CI/CD • Containers • Cloud Automation
 
 I'm passionate about building reliable infrastructure and continuously improving how systems are delivered.  
 **Currently open to work** and actively looking for opportunities to grow further in DevOps.
